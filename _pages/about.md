@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Jianing. Welcome to my personal website. I am a Ph.D. student at Penn State, tutored by Dr. Yan. Here is my email [jjc7382@psu.edu]. I welcome everyone to contact me via email.
+Hi, I am Jianing. Welcome to my personal website. I am a Ph.D. student at Penn State, tutored by Dr. Yan. Here is my email jjc7382@psu.edu. I welcome everyone to contact me via email.
 
 A data-driven personal website
 ======
